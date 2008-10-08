@@ -1,0 +1,15 @@
+#summary Getting the project going via the source code.
+#labels Featured
+
+= Introduction =
+
+To make it easy I simply archived the entire Netbeans 6.1 project for the GFS Server source code and files.
+
+
+= Details =
+
+*1.* Netbeans 6.1 was used for this project so it is in that particular format but can be easily moved to something else.
+
+*2.* I put the dependent jar files in C:\jars.  You will need to modify that accordingly.  The dependent jar files should be in the "dist\lib" directory in the source download.
+
+*3.* This was compiled and built with Java 1.6 and a slightly modified version of Mina 1.1.5.  See this blog entry for more details: http://giantflyingsaucer.com/blog/?p=7
